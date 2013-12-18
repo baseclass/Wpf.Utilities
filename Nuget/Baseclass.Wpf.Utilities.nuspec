@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Baseclass.Wpf.Utilities</id>
+    <version>0.0.1</version>
+    <title>Baseclass.Wpf.Utilities</title>
+    <authors>baseclass</authors>
+    <owners>baseclass</owners>
+    <description>
+      Library containing additional classes to work with MEF.
+    </description>
+    <releaseNotes>
+      - Extensions and behaviors to let a WPF window flash.
+    </releaseNotes>
+    <summary>
+      Library containing utilities to work with WPF.
+
+      - Extensions and behaviors to let a WPF window flash.
+    </summary>
+    <language>en-US</language>
+    <projectUrl>http://www.baseclass.ch</projectUrl>
+    <copyright>Copyright  2013</copyright>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="PresentationCore" />
+      <frameworkAssembly assemblyName="PresentationFramework" />
+      <frameworkAssembly assemblyName="WindowsBase" />
+    </frameworkAssemblies>
+    <tags>WPF Utilities Flash FlashWindowEx</tags>
+  </metadata>
+  <files>
+    <file src="..\Baseclass.Wpf.Utilities\bin\Release\Baseclass.Wpf.Utilities.dll" target="lib\net40\Baseclass.Wpf.Utilities.dll" />
+  </files>
+</package>
